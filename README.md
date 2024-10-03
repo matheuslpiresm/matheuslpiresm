@@ -1,6 +1,6 @@
 Olá, bem vindo ao meu perfil
 
-Tenho 27 anos e sou um desenvolvedor em busca de novos desafios e aprendizados
+Tenho 28 anos e sou um desenvolvedor em busca de novos desafios e aprendizados
 
 💻 **Formação:** Análise e Desenvolvimento de Sistemas <br>
 📚 **Atualmente:** Discente no MBA em Engenharia de Software na USP Esalq
